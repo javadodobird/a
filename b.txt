@@ -1,3 +1,1 @@
 https://vod.gdtv.cn/m3u8/202502/173919817762.m3u8,https://vod.gdtv.cn/m3u8/202502/173919817762.m3u8
-LiveChina,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-HBO,http://ali.hlspull.yximgs.com/live/huanqiuhktvmqqlqpwqjctjfhjvqjqjuqlvcbeyweqweefshqfhhqsqqcxhbo.flv
