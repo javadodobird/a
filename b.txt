@@ -1,9 +1,1 @@
-https://vod.gdtv.cn/m3u8/202611/179509819782.m3u8,https://vod.gdtv.cn/m3u8/202611/179509819782.m3u8
-
-https://vod.gdtv.cn/m3u8/202611/179509735725.m3u8,https://vod.gdtv.cn/m3u8/202611/179509735725.m3u8
-
-
-
-https://vod.gdtv.cn/m3u8/202611/179501135412.m3u8,https://vod.gdtv.cn/m3u8/202611/179501135412.m3u8
-
-https://vod.gdtv.cn/m3u8/202611/179500703032.m3u8,https://vod.gdtv.cn/m3u8/202611/179500703032.m3u8
+https://vod.gdtv.cn/m3u8/202611/179517813370.m3u8,https://vod.gdtv.cn/m3u8/202611/179517813370.m3u8
